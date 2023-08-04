@@ -1,0 +1,11 @@
+{
+
+ "version":"1",
+
+ "title":"Developer WhatsApp Mods",
+
+ "description":"Get the latest WhatsApp Update Notifications.",
+
+ "download":"https://youtube.com/@66XZD"
+
+}
